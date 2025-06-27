@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.0] - 2025-06-27
+### Added
+- Support for Oro 6.x
+
 ## [1.0.0] - 2023-08-04
 ### Added
 - Decorator to override the `RestApiController`
